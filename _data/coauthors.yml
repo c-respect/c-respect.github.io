@@ -1,34 +1,39 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Wägemann":
+  - firstname: ["Peter", "P."]
+    url: https://sys.cs.fau.de/person/waegemann
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Schröder-Preikschat":
+  - firstname: ["Wolfgang", "W."]
+    url: https://sys.cs.fau.de/person/wosch
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Preisner":
+  - firstname: ["Thomas", "T."]
+    url: https://sys.cs.fau.de/person/preisner
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Gerhorst":
+  - firstname: ["Luis", "L."]
+    url: https://sys.cs.fau.de/person/gerhorst
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Raffeck":
+  - firstname: ["Phillip", "P."]
+    url: https://sys.cs.fau.de/person/raffeck
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Herfet":
+  - firstname: ["Thorsten", "T."]
+    url: https://www.nt.uni-saarland.de/people/thorsten-herfet/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Vogelgesang":
+  - firstname: ["Kai", "K."]
+    url: https://www.nt.uni-saarland.de/people/kai-vogelgesang/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Mudraje":
+  - firstname: ["Ishwar", "I."]
+    url: https://www.nt.uni-saarland.de/people/ishwar-mudraje/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Förster":
+  - firstname: ["Anna", "A."]
+    url: https://www.uni-bremen.de/comnets/people/prof-dr-anna-foerster
+
+"Attarha":
+  - firstname: ["Shadi", "S."]
+    url: https://www.uni-bremen.de/comnets/people
