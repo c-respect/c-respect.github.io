@@ -1,39 +1,39 @@
-"Wägemann":
+"wägemann":
   - firstname: ["Peter", "P."]
     url: https://sys.cs.fau.de/person/waegemann
 
-"Schröder-Preikschat":
+"schröder-preikschat":
   - firstname: ["Wolfgang", "W."]
     url: https://sys.cs.fau.de/person/wosch
 
-"Preisner":
+"preisner":
   - firstname: ["Thomas", "T."]
     url: https://sys.cs.fau.de/person/preisner
 
-"Gerhorst":
+"gerhorst":
   - firstname: ["Luis", "L."]
     url: https://sys.cs.fau.de/person/gerhorst
 
-"Raffeck":
+"raffeck":
   - firstname: ["Phillip", "P."]
     url: https://sys.cs.fau.de/person/raffeck
 
-"Herfet":
+"herfet":
   - firstname: ["Thorsten", "T."]
     url: https://www.nt.uni-saarland.de/people/thorsten-herfet/
 
-"Vogelgesang":
+"vogelgesang":
   - firstname: ["Kai", "K."]
     url: https://www.nt.uni-saarland.de/people/kai-vogelgesang/
 
-"Mudraje":
+"mudraje":
   - firstname: ["Ishwar", "I."]
     url: https://www.nt.uni-saarland.de/people/ishwar-mudraje/
 
-"Förster":
+"förster":
   - firstname: ["Anna", "A."]
     url: https://www.uni-bremen.de/comnets/people/prof-dr-anna-foerster
 
-"Attarha":
+"attarha":
   - firstname: ["Shadi", "S."]
     url: https://www.uni-bremen.de/comnets/people
