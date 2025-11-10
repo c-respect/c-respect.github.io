@@ -4,7 +4,7 @@ title: C-ResPECT
 permalink: /
 subtitle: SPP-2378 Resilient Worlds, Subproject C-ResPECT
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 ---
 
 Resilient Worlds; the topic of the focus program pays respect to the fact that
