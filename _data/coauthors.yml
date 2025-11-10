@@ -1,8 +1,8 @@
-"wägemann":
+"wagemann":
   - firstname: ["Peter", "P."]
     url: https://sys.cs.fau.de/person/waegemann
 
-"schröder-preikschat":
+"schroder-preikschat":
   - firstname: ["Wolfgang", "W."]
     url: https://sys.cs.fau.de/person/wosch
 
@@ -30,7 +30,7 @@
   - firstname: ["Ishwar", "I."]
     url: https://www.nt.uni-saarland.de/people/ishwar-mudraje/
 
-"förster":
+"forster":
   - firstname: ["Anna", "A."]
     url: https://www.uni-bremen.de/comnets/people/prof-dr-anna-foerster
 
